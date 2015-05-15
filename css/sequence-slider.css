@@ -145,7 +145,7 @@ Sequence.js and its dependencies are (c) Ian Lunn Design 2012 - 2013 unless othe
 h2 {
   color: white;
   font-family: "Roboto", serif;
-  font-weight: 200;
+  font-weight: 300;
   text-transform: uppercase;
   border: 1px solid #fff;
 }
@@ -177,7 +177,7 @@ h3 {
 }
 
 .title {
-  font-size: 50px;
+  font-size: 45px;
   text-align: center;
   left: 70%;
   width: 35%;
