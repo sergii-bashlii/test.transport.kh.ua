@@ -461,3 +461,7 @@
     #logo a{
         padding: 0;
     }
+
+    #navigation li a {
+        font-size: 18px;
+    }
