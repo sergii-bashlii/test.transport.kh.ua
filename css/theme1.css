@@ -259,6 +259,10 @@
         position: relative;
 	    z-index: 900;
     }
+
+     #proekt{
+        font-size: 20px;
+    }
     
     #process h1 {
 	    color: #fff;
