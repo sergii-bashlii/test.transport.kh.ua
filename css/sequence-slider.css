@@ -111,7 +111,7 @@ Sequence.js and its dependencies are (c) Ian Lunn Design 2012 - 2013 unless othe
 }
 .sequence-pagination li {
   display: inline-block;
-  *display: inline;
+  display: inline;
   /* Hack for IE7 and below as they don't support inline-block */
   height: 30px;
 }
