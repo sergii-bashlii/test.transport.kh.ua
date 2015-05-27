@@ -276,6 +276,25 @@ h3 {
   }
 
 }
+
+@media only screen and (max-width: 1201px) {
+  #sequence {
+    height: 540px;
+  }
+  #sequence .slider-image {
+    max-height: 530px !important;
+    width: auto;
+  }
+  #top-slider .slider-bg {
+      background: url(../img/carousel-bg_1.jpg) 0 0 repeat fixed; 
+      margin: 0 auto;
+      padding: 0;
+      position: absolute;
+      z-index: 100;
+      width: 100%;
+    }
+}
+
 @media only screen and (max-width: 838px) {
   #sequence {
     height: 550px;
@@ -403,6 +422,7 @@ h3 {
       width: 100%;
     }
 }
+
 @media only screen and (max-width: 518px) {
   #sequence {
     height: 450px;
@@ -416,6 +436,7 @@ h3 {
       width: 100%;
     }
 }
+
 @media only screen and (max-width: 468px) {
   #sequence {
     height: 415px;
@@ -433,6 +454,7 @@ h3 {
       width: 100%;
     }
 }
+
 @media only screen and (max-width: 418px) {
   #sequence {
     height: 375px;
@@ -446,6 +468,7 @@ h3 {
       width: 100%;
     }
 }
+
 @media only screen and (max-width: 368px) {
   #sequence {
     height: 325px;
@@ -461,7 +484,15 @@ h3 {
       z-index: 100;
       width: 100%;
     }
-}
+
+    ul.sequence-canvas{
+      padding-left: 0px;
+      padding-right:40px;
+
+    }
+ 
+  }
+
 @media only screen and (max-width: 320px) and (orientation: portrait) {
   /*iphone portrait*/
   #sequence {
@@ -490,6 +521,7 @@ h3 {
     }
 
 }
+
 @media only screen and (min-width: 321px) and (max-width: 480px) and (orientation: landscape) {
   #sequence {
     height: 260px;
