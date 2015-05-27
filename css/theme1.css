@@ -17,9 +17,6 @@
      
     */
 
-.process {
-    z-index: 2000;
-}
 
 /* 1. Navbar
 -------------- */
@@ -261,7 +258,7 @@
         width: 100%;
         overflow: hidden;
         position: relative;
-	    z-index: 900;
+	    z-index: 2000;
     }
 
      #proekt{
