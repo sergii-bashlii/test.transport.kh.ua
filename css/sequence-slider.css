@@ -25,7 +25,7 @@ Sequence.js and its dependencies are (c) Ian Lunn Design 2012 - 2013 unless othe
   font-size: 0.625em;
   margin: 0 auto;
   position: relative;
-  position: fixed;
+  /*position: fixed;*/
   height: 600px;
   z-index: 200;
 }

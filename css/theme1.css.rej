@@ -1,0 +1,10 @@
+diff a/css/theme1.css b/css/theme1.css	(rejected hunks)
+@@ -251,7 +251,7 @@
+ -------------- */
+     
+     #process {
+-	    background: #2c3e50;
++	    background: #27ad60;
+ 	    padding: 60px 0px ;
+ 	    display: block;
+         width: 100%;
