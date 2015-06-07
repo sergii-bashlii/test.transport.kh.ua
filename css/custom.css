@@ -1213,6 +1213,10 @@
 		height: 600px;
     }
 
+    #d-grey{
+        font-size: 30px;
+    }
+
     }
     
     @media (max-width: 489px) {
